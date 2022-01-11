@@ -1,0 +1,7 @@
+Qual das definições de array está incorreta?
+[ ] - var frutas = new Array('maça', 'uva');
+[ ] - const frutas = ['maça', 'uva']
+[ ] - let frutas = new list('maça', 'uva');
+
+A definição incorreta é a 3a, pois list não é uma palavra-chave reconhecida pelo JS para criar uma lista.
+O termo correto seria utilizar a palavra chave Array no lugar de list, que é reconhecida e tornaria a definição funcional.

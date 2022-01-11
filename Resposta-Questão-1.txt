@@ -1,0 +1,7 @@
+O valor de uma constante não pode ser alterado após sua declaração.
+
+Uma constante pode ser utilizada em um escopo de bloco, ou seja, semelhantemente a uma variável declarada 
+utilizando a palavra-chave "let", porém o valor da constante não pode ser alterado nem redeclarado.
+
+A diferença entre var e let é que var pode ser utilizado globalmente, ao contrário de let, que é utilizado 
+no escopo de bloco, funções e/ou expressões.

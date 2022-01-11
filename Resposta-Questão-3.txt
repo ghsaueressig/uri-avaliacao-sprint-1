@@ -1,0 +1,6 @@
+Qual definição de função abaixo é inválida?
+[ ] - function minhaFuncao () {}
+[ ] - const funcao = () => {}
+[ ] - function funcao = () => {}
+
+A definição de função inválida é a 3a opção, onde é utilizado incorretamente sinais como = e =>, onde apenas deveria ser utilizada os parênteses e chaves.

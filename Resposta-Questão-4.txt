@@ -1,0 +1,10 @@
+Descreve em poucas palavras os principais métodos HTTP:
+GET: o método GET é utilizado para requisitar uma representação do recurso especificado pelo cliente.
+
+POST: o método POST é utilizado para enviar dados para serem processador por um recurso especificado.
+
+PATCH: o método PATCH é utilizado para aplicar modificações parciais a um recurso.
+
+PUT: o método PUT é utilizado para criar um novo recurso ou substituir uma representação do recurso de destino com novos dados.
+
+DELETE: o método DELETE é utilizado para remover um recurso especificado anteriormente.
